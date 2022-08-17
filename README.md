@@ -1,0 +1,5 @@
+## MARA TOKEN LIST
+## moonriver
+Contract Address： 0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863
+## bsc
+Contract Address： 0xFE47E301970CD1881d565da218D10d8aDeC26E0D
